@@ -1,0 +1,180 @@
+{
+  "students": [
+    {
+      "first": "Naruto",
+      "email": "Naruto@gmail.com",
+      "phone": "8368207673",
+      "address": "1.34 Leaf Village",
+      "nation": "Indiana",
+      "id": 1
+    },
+    {
+      "first": "Naruto",
+      "email": "Naruto@gmail.com",
+      "phone": "8368207673",
+      "address": "1.34 Leaf Village",
+      "nation": "Indiana",
+      "id": 2
+    },
+    {
+      "first": "Naruto",
+      "email": "Naruto@gmail.com",
+      "phone": "8368207673",
+      "address": "1.34 Leaf Village",
+      "nation": "Indiana",
+      "id": 3
+    },
+    {
+      "first": "Naruto",
+      "email": "Naruto@gmail.com",
+      "phone": "8368207673",
+      "address": "1.34 Leaf Village",
+      "nation": "Indiana",
+      "id": 4
+    },
+    {
+      "first": "Naruto",
+      "email": "Naruto@gmail.com",
+      "phone": "8368207673",
+      "address": "1.34 Leaf Village",
+      "nation": "Indiana",
+      "id": 5
+    },
+    {
+      "first": "Sasuke",
+      "email": "Sasuke@gmail.com",
+      "phone": "8368207673",
+      "address": "1.34 Leaf Village",
+      "nation": "Indiana",
+      "id": 6
+    },
+    {
+      "first": "Sasuke",
+      "email": "Sasuke@gmail.com",
+      "phone": "8368207673",
+      "address": "1.34 Leaf Village",
+      "nation": "Indiana",
+      "id": 7
+    },
+    {
+      "first": "Kakachi",
+      "email": "Kakachi@gmail.com",
+      "phone": "8368207673",
+      "address": "1.34 Leaf Village",
+      "nation": "Indiana",
+      "id": 8
+    },
+    {
+      "first": "dexter",
+      "email": "chi@ms",
+      "phone": "766677",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 9
+    },
+    {
+      "first": "dexter",
+      "email": "chi@ms",
+      "phone": "766677",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 10
+    },
+    {
+      "first": "dexter",
+      "email": "chi@ms",
+      "phone": "766677",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 11
+    },
+    {
+      "first": "dexter",
+      "email": "chi@ms",
+      "phone": "766677",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 12
+    },
+    {
+      "first": "dexter",
+      "email": "chi@ms",
+      "phone": "766677",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 13
+    },
+    {
+      "first": "dexter",
+      "email": "chi@ms",
+      "phone": "766677",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 14
+    },
+    {
+      "first": "Ninetail",
+      "email": "Ninetail@gmail.com",
+      "phone": "444345451",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 15
+    },
+    {
+      "first": "Ninetail",
+      "email": "Ninetail@gmail.com",
+      "phone": "444345451",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 16
+    },
+    {
+      "first": "Ninetail",
+      "email": "Ninetail@gmail.com",
+      "phone": "444345451",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 17
+    },
+    {
+      "first": "Ninetail",
+      "email": "Ninetail@gmail.com",
+      "phone": "444345451",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 18
+    },
+    {
+      "first": "Ninetail",
+      "email": "Ninetail@gmail.com",
+      "phone": "444345451",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 19
+    },
+    {
+      "first": "Ninetail",
+      "email": "Ninetail@gmail.com",
+      "phone": "444345451",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 20
+    },
+    {
+      "first": "Ninetail",
+      "email": "Ninetail@gmail.com",
+      "phone": "444345451",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 21
+    },
+    {
+      "first": "Ninetail",
+      "email": "Ninetail@gmail.com",
+      "phone": "444345451",
+      "address": "1.34 Leaf Village",
+      "nation": "",
+      "id": 22
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+.calender{
+    display: flex;
+    justify-content: space-between;
+    opacity: 0.7;
+}
+.calender2{
+   
+    height: 230px;
+    width: 280px;
+    line-height: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px rgb(219, 217, 217);
+    margin-left: 30px;
+    margin-bottom: 10px;
+    padding: 20px 20px;
+    opacity: 0.9;
+    background-color: rgb(247, 249, 250);
+    margin-top: 25px;
+    
+}
+.calender .b{
+    height: 20px;
+    width: 120px;
+    background-color: rgb(223, 218, 218);
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 8px;
+    background: linear-gradient(rgb(235, 154, 80),rgb(245, 246, 247),rgb(29, 109, 9));
+}
+.top_calender{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(241, 240, 238);
+    width: 100%;
+    
+}
+.btn1{
+    color: rgb(116, 149, 197);
+    background-color: rgb(233, 228, 226);
+    height: 30px;
+    width: 100px;
+}
+/* .btn2{
+    color: rgb(247, 248, 250);
+    background-color: rgb(1, 4, 15);
+    height: 30px;
+    margin-left: 20px;
+    width: 100px;
+} */
+i{
+    color: rgb(83, 83, 247);
+    margin-right: 12px;
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 13px;
+}
+.form .form2{
+    height: 35px;
+    margin-right: 0;
+    border-radius: 10px;
+    background-color: rgb(13, 90, 231);
+    color: aliceblue;
+    width: 50px;
+    border: none;
+}
+.form .form3{
+    height: 35px;
+    margin-right: 0;
+    border-radius: 10px;
+    background-color: rgb(13, 90, 231);
+    color: aliceblue;
+    width: 120px;
+    border: none;
+}
+.form span{
+    margin: 5px 7px;
+    
+}
+.box{
+    width: 460px;
+    margin: 0 auto;
+    height: 568px;
+    border: 1px solid gray;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(236, 234, 229);
+    box-shadow: 2px 2px 10px rgb(216, 100, 148) inset inherit;
+    border-radius: 10px;
+    background: linear-gradient(rgb(198, 149, 221),rgb(101, 185, 211),rgb(227, 175, 240));
+}
+.box span{
+    font-size: 20px;
+    justify-content: left;
+}
+.dashboard{
+    height: 595px;
+    width: 230px;
+    border: 1px solid white;
+    /* box-shadow: 1px 1px 5px rgb(190, 188, 188); */
+    /* padding-top: 60px; */
+    padding-left: 18px;
+    margin-bottom: 20px;
+}
+.dash2{
+    color: rgb(206, 201, 201);
+
+}
+.dashboard button{
+    height: 40px;
+    width: 150px;
+    border: none;
+    text-align: left;
+    color: rgb(206, 201, 201);
+    background-color: white;
+    font-size: 12px;
+    font-weight: bolder;
+
+}
+.dashboard i{
+    color: rgb(209, 207, 207);
+}
+
+.avatar{
+    height:115px;
+    width: 100px;
+    cursor: pointer;
+    margin: 0 auto;
+  margin-top: 20px;
+}
+.avatar .avatar2{
+    background-image: url('../src/Assets/1.jfif');
+    background-size: cover;
+}
+.avatar img{
+    height: 100px;
+    width:100px;
+    border-radius: 50% ;
+  
+}
+.one{
+    width: 95%;
+    border: 1px solid lightgray;
+    height: 40%;
+    box-shadow: 1px 1px 5px gray;
+    background-color: rgb(255, 255, 255);
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+.two button{
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(38, 184, 38);
+    color: white;
+    height: 35px;
+    width: 100px;
+}
+input{
+   /* opacity: 0.3; */
+   
+}
+select{
+    /* opacity: 0.3; */
+}
+.three{
+    padding-left: 50px;
+    padding-top: 10px;
+    background-color: rgb(241, 238, 238);
+}
+#file{
+    position: relative;
+}
+#icon{
+    position: absolute;
+     left: 485px;
+    top: 190px; 
+    color: rgb(44, 228, 182);
+    /* font-size: 50px; */
+    /* border: 1px solid white; */
+    height: 35px;
+    width: 35px;
+    /* background-color: white; */
+    border-radius: 50%;
+    text-align: center;
+    margin-bottom:20px;
+    padding-top: 5px;
+}
+.valid{
+    line-height: 10px ;
+    color: red;
+}
+.button1{
+    color: black;
+}
